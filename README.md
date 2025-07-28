@@ -1,16 +1,38 @@
-# calmy
+🌿 CalmMind – App Flutter para Respiración Guiada y Ansiedad
 
-A new Flutter project.
+Una aplicación móvil desarrollada en Flutter para ayudar a personas a gestionar la ansiedad mediante ejercicios de respiración guiada, animaciones visuales relajantes y una interfaz intuitiva.
+🧘‍♀️ Características
 
-## Getting Started
+    Modo de burbujas animadas que se inflan al inhalar y se desinflan al exhalar.
 
-This project is a starting point for a Flutter application.
+    Modo triángulo con animación sincronizada para controlar la respiración.
 
-A few resources to get you started if this is your first Flutter project:
+    Configuración del tiempo de inhalación y exhalación.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Interfaz visual minimalista y colorida, inspirada en diseño terapéutico.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Adaptada para sesiones cortas de relajación en cualquier momento del día.
+
+📱 Tecnologías Usadas
+
+    Flutter y Dart
+
+    Animaciones personalizadas
+
+    Material Design
+
+    Control de estado (setState / o provider, según lo que uses)
+
+🖼️ Capturas de pantalla
+
+(Aquí puedes añadir imágenes o GIFs de la app en funcionamiento)
+⚙️ Instalación y Ejecución
+
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+flutter pub get
+flutter run
+
+🎯 Objetivo del Proyecto
+
+Desarrollar una herramienta gratuita, accesible y sencilla para personas que buscan alivio rápido frente a episodios de ansiedad o estrés.
