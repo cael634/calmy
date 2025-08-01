@@ -14,12 +14,12 @@
 - 🔄 **Uso sin conexión**: no requiere internet para funcionar.
 
 ---
-
-## 📸 Capturas de pantalla
-
-_Añade aquí tus capturas o GIFs de la app en funcionamiento._
-
 ```bash
+ ## 📸 Capturas de pantalla
+
+# _Añade aquí tus capturas o GIFs de la app en funcionamiento._
+
+
 # Ejemplo:
 # ![Modo Burbuja](screenshots/burbuja.gif)
 # ![Modo Triángulo](screenshots/triangulo.png)
@@ -44,7 +44,7 @@ Sigue estos pasos para clonar y ejecutar la aplicación localmente:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/cael634/calmy.git
    cd tu-repo
    ```
 
@@ -72,9 +72,9 @@ Este proyecto fue creado como una herramienta de apoyo emocional accesible para 
 Estudiante de Ingeniería Electrónica  
 Desarrollador Flutter | Interesado en tecnología para el bienestar mental  
 
-- [GitHub](https://github.com/tu-usuario)  
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
-- Email: tu-email@example.com  
+- [GitHub](https://github.com/cael634)  
+- [LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/cristian-eraso-b41221161/))  
+- Email: cael04311@gmail.com  
 
 ---
 
