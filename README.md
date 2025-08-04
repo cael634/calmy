@@ -51,17 +51,15 @@ Electronic Engineering Student
 Flutter Developer | Interested in technology for mental wellness  
 📫 Email: cael04311@gmail.com
 
-GitHub | LinkedIn
-
 ---
 
 📄 **License**
 
 Distributed under the MIT License.  
-See the LICENSE file for more details.
+See the LICENSE file for more details. [Licencia MIT](./LICENSE).
 
 ---
 
 🌐 **Spanish Version**
 
-Available at: `README_es.md`
+Available at: [README_español](./README_es.md).
